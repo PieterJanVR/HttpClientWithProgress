@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientWithProgress", "src\HttpClientWithProgress\HttpClientWithProgress.csproj", "{A1CCC988-16E5-498A-9861-576570FD4D68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientWithProgress.Example1", "examples\HttpClientWithProgress.Example1\HttpClientWithProgress.Example1.csproj", "{F3F5EB6C-1AF9-483B-B489-0A5FEFAF713E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1CCC988-16E5-498A-9861-576570FD4D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1CCC988-16E5-498A-9861-576570FD4D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1CCC988-16E5-498A-9861-576570FD4D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CCC988-16E5-498A-9861-576570FD4D68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F5EB6C-1AF9-483B-B489-0A5FEFAF713E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F5EB6C-1AF9-483B-B489-0A5FEFAF713E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F5EB6C-1AF9-483B-B489-0A5FEFAF713E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F5EB6C-1AF9-483B-B489-0A5FEFAF713E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
